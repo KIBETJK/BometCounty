@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Bomet Banana Farmers App</Text>
+      <Text>BometC Banana Farmers App</Text>
       <StatusBar style="auto" />
     </View>
   );
